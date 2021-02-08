@@ -1,2 +1,15 @@
-# umi-route-change-twice
-https://github.com/umijs/umi/issues/5181
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
